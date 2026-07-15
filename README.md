@@ -4,7 +4,7 @@
 
 this is my portfolio website link [https://basil-zafar-portfolio.web.app/]
 
-I am a Mathematics and Computing undergraduate passionate about building scalable backend systems, designing AI/ML pipelines, and competing in hackathons. Whether it's spinning up a custom HTTP server from scratch in Java to understand low-level architecture, or building generative AI applications, I love turning complex problems into elegant technical solutions.
+I am a Mathematics and Computing undergraduate building scalable backend systems, designing AI/ML pipelines, and competing in hackathons.
 
 ### 🚀 About Me
 * 💻 I enjoy building things from the ground up to deeply understand how they work under the hood.
