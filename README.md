@@ -34,13 +34,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BasilZafar11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=BasilZafar11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=BasilZafar11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasilZafar11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BasilZafar11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
+
+> Stats cards are served by third-party free-tier tools and can occasionally lag or fail to load — if a card breaks again, it's usually just their server, not your README.
 
 ---
 
