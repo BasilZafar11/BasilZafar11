@@ -34,15 +34,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=basil-zafar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=basil-zafar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BasilZafar11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BasilZafar11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basil-zafar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasilZafar11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-> ⚠️ Replace `basil-zafar` above with your actual GitHub username so the stat cards render correctly.
 
 ---
 
