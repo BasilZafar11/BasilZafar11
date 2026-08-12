@@ -35,7 +35,7 @@
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=BasilZafar11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=BasilZafar11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=BasilZafar11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
